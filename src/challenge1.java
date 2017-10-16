@@ -13,7 +13,7 @@ public class challenge1 {
 			sorted-=2;
 		}
 		for (int i = 0; i < array.length; i++) {
-			System.out.print(array[i]);
+			System.out.println(array[i]);
 		}
 
 	}
